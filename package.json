@@ -1,0 +1,14 @@
+{
+  "name": "cloudinary-upload",
+  "version": "1.0.0",
+  "description": "cloudinary-upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.4.0"
+  }
+}
